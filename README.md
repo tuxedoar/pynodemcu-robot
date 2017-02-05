@@ -1,6 +1,6 @@
 
 # PynodeMCU robot
-This is the first robot I've ever built!. It's mainly based on a NodeMCU devkit board mounted on a well-known 2WD robot chassis. The following, are the complete list of components that I've used to build it: 
+This is the first robot I've ever built!. It's mainly based on a NodeMCU devkit board mounted on a well-known 2WD robot chassis. The following, is a complete list of components that I've used to build it: 
 - A 2WD robot chassis kit.
 - A NodeMCU devkit 1.0 board. 
 - A L298N based module.
